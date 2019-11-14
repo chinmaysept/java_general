@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/info/jars/openJMS/openjms-0.7.7-beta-1/lib/spice-jndikit-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/info/jars/openJMS/openjms-0.7.7-beta-1/lib/openjms-tools-0.7.7-beta-1.jar"/>
+	<classpathentry kind="lib" path="D:/info/jars/openJMS/openjms-0.7.7-beta-1/lib/openjms-net-0.7.7-beta-1.jar"/>
+	<classpathentry kind="lib" path="D:/info/jars/openJMS/openjms-0.7.7-beta-1/lib/openjms-common-0.7.7-beta-1.jar"/>
+	<classpathentry kind="lib" path="D:/info/jars/openJMS/openjms-0.7.7-beta-1/lib/openjms-0.7.7-beta-1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
